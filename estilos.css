@@ -1,0 +1,57 @@
+.corpo{
+    font-size: large;
+    font-family:unset;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: oblique;
+    color:#ffffff;
+}
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: left;
+}
+
+.corpo2{
+    background-color:rgb(169, 81, 212);
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.corpoW{
+    background-color: rgb(131, 120, 255);
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.corpoE{
+    background-color: rgb(77, 174, 105);
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.corpoP{
+    background-color: rgb(253, 95, 51);
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tabela{
+   border: 5px;
+   margin:7px
+  
+}
+
+.titulo2{
+    font-size: medium;
+    text-align: center;
+    font-family:unset;
+    text-decoration:underline;
+}
+
+table{border-spacing: 3px};
